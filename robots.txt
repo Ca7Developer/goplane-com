@@ -1,0 +1,5 @@
+# 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ca7developer.github.io/goplane-com/sitemap.xml
